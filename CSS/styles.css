@@ -1,11 +1,26 @@
 *{
     box-sizing: border-box;
 }
+a{
+    text-decoration: none;
+    color: yellow;
+}
 body{
     color: white;
-    background-color: gray;
+    background-color: #222;
     padding: 16px;
 }
 h1{
     color: crimson;
+}
+
+h2{
+    color: dodgerblue;
+}
+
+header,
+footer{
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
 }

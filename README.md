@@ -1,3 +1,0 @@
-# Introducción a Git
-
-
